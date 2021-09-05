@@ -1,4 +1,4 @@
-package LibraryService;
+package Agency;
 
 import org.hibernate.annotations.DynamicInsert;
 import org.hibernate.annotations.DynamicUpdate;

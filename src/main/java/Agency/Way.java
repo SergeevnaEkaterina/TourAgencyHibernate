@@ -1,4 +1,4 @@
-package LibraryService;
+package Agency;
 
 import javax.persistence.*;
 

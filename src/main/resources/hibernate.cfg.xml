@@ -24,8 +24,8 @@
 
         <property name="show_sql">true</property>
 
-        <mapping class="LibraryService.Person"/>
-        <mapping class="LibraryService.Way"/>
+        <mapping class="Agency.Person"/>
+        <mapping class="Agency.Way"/>
 
 
     </session-factory>

@@ -1,4 +1,4 @@
-package LibraryService;
+package Agency;
 
 import org.hibernate.HibernateException;
 import org.hibernate.SessionFactory;
